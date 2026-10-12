@@ -1,0 +1,4 @@
+interface:
+  display_name: "Tripo 网格整理与贴图"
+  short_description: "整理 Tripo 生成模型的部位、规整 UV、参考图贴图与导出验证"
+  default_prompt: "使用 $tripo-mesh-workflow 处理这个 Tripo 模型，按需求拆分部位、整理 UV 并制作参考图贴图。"
